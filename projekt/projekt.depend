@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1589642184 source:d:\codeblocks\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"function.c"
+
+1589642596 d:\codeblocks\projekt\function.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"header.h"
+
+1589559221 d:\codeblocks\projekt\header.h
+
