@@ -7,10 +7,24 @@
 
 int main()
 {
-    char x = menu();
-    if(x == '1')
+    if(menu() == '1')
     {
         inditas();
+        printf("\n\n\nNyomjon p-t a kilepeshez\n");
+        char q;
+        while(q != 'p')
+        {
+            q=getch();
+        }
+    }
+    else
+    {
+        printf("\n\n\nNyomjon p-t a kilepeshez\n");
+        char q;
+        while(q != 'p')
+        {
+            q=getch();
+        }
     }
 
     return 0;

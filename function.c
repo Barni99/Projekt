@@ -120,12 +120,6 @@ void inditas()
     {
         printf("\n                  REKORD: --> %lf sec <--", rek);
     }
-    printf("\n\n\nNyomjon p-t a kilepeshez\n");
-    char q;
-    while(q != 'p')
-    {
-        q=getch();
-    }
 }
 
 Palya *inicializalas(char* input,Karakter *k)

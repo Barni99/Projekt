@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1589642653 source:d:\codeblocks\projekt\main.c
+1589996041 source:d:\codeblocks\projekt\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
@@ -7,7 +7,7 @@
 	<windows.h>
 	"function.c"
 
-1589900650 d:\codeblocks\projekt\function.c
+1589996199 d:\codeblocks\projekt\function.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
